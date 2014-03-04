@@ -1,0 +1,4 @@
+first mail form Guide
+
+Read these papers. After reading Itti’s paper, you will have a basic idea of visual attention. You will get to 
+know about a computational model of visual attention after reading the second paper. This will be the starting point of your work.
